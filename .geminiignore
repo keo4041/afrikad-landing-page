@@ -1,0 +1,15 @@
+# Version control & cache
+.git/
+node_modules/
+dist/
+
+# OS artifacts
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
+
+# Sensitive files & environments
+.env
+.env.*
+*.pem
+*.key

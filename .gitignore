@@ -1,0 +1,18 @@
+# OS metadata & NTFS Alternate Data Streams
+*:Zone.Identifier
+.DS_Store
+Thumbs.db
+
+# Editors & IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node / Build artifacts (if added in the future)
+node_modules/
+dist/
+.cache/
+
+# Local logs
+*.log
